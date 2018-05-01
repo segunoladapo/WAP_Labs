@@ -1,0 +1,28 @@
+body{
+	background-color:white;
+	color:#404040;
+	font-size:11pt;
+	font:Georgia, Garamond;
+	
+}
+
+.heading{
+	background-color:#F0F0F0;
+	color: #A4A400;
+	font:"Lucida Sans Unicode", Helvetica, Arial;
+	text-align: left;
+	font-size:18pt;
+	font-weight:normal;
+	text-decoration: underline;
+}
+
+.main{
+	text-align: center;
+	font-size: 22pt;
+	font-weight: bold; 
+	
+}
+
+a {
+    color: #A4A400;
+}
