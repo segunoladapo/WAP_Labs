@@ -3,7 +3,20 @@ body{
 	color:#404040;
 	font-size:11pt;
 	font:Georgia, Garamond;
+	background-image: url("../images/silverware.jpg");
+	background-repeat:repeat;
+	margin: auto;
+	max-width:800px;
 	
+}
+
+img {
+	width:200px;
+	height: 200px;
+}
+
+.bold{
+	font-weight: bold;
 }
 
 .heading{
@@ -22,6 +35,10 @@ body{
 	font-weight: bold; 
 	
 }
+
+.comments{
+	background-color: #F5ee5f;
+ }
 
 a {
     color: #A4A400;
