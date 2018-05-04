@@ -1,0 +1,17 @@
+body{
+    background:gray;
+    font:Arial;
+    font-size: 15pt;
+    color: white;
+
+}
+
+.heading{
+    font-size: 20pt;
+    color: blue;
+}
+
+.topic{
+     font-size: 25pt;
+     color: blue;
+}
