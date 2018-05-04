@@ -25,13 +25,16 @@ body{
 .section{
     border-radius: 10px;
     background-color: rgb(211, 255, 253);
-    float: right;
-    height: 300px;
     border-radius: 15px;
-        border: 3px solid #9eefea;
+    border: 3px solid #9eefea;
     width: 695px;
     margin-bottom: 10px;
     overflow:auto;
+    text-align: justify;
+    margin-left: 200px;
+    padding-left: 4px;
+    padding-right: 3px;
+
 }
 .nav{
     border-radius: 15px;
@@ -43,14 +46,20 @@ body{
     text-align: left;
     float: left;
     margin-right: 4px;
+  
 }
 .navHeading{
     font-size: 20px;
-    font-weight: bold;
+    
 }
-sectionheading{
-font-size:100px;
+.sectionheading{
+    font-size: 24px;
 }
+
+.dottedHeading{
+    border-bottom : 2px dashed;
+}
+
 underlinetext{
 text-decoration: underline dotted;
 }
