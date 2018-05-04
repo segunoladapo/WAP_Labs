@@ -13,7 +13,7 @@ body{
     text-align: right;
     background-color: rgb(132, 237, 235);
     color: rgb(65, 155, 175);
-    margin-bottom: 20px;
+    margin-bottom: 13px;
 }
 
 .inner{
@@ -31,12 +31,13 @@ body{
         border: 3px solid #9eefea;
     width: 695px;
     margin-bottom: 10px;
+    overflow:auto;
 }
 .nav{
     border-radius: 15px;
     border: 4px solid #3d8c9e;
     width: 160px;
-    height: 100px;
+    height: 130px;
     padding-left: 20px;
     background-color:rgb(133, 234, 232);
     text-align: left;
@@ -46,6 +47,12 @@ body{
 .navHeading{
     font-size: 20px;
     font-weight: bold;
+}
+sectionheading{
+font-size:100px;
+}
+underlinetext{
+text-decoration: underline dotted;
 }
 
 img {
