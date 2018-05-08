@@ -1,0 +1,79 @@
+body{
+    font-size: 12pt;
+}
+.heading{
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: normal;
+   color: #9CDAED;
+}
+#firstwrapper{
+    width: 800px;
+    height: 190pt;
+    /* border: solid; */
+    /* border-color: #9CDAED; */
+    margin: auto;
+    /* border-radius: 20px; */
+}
+a{
+    font-size: 9pt;
+    color: blue;
+}
+.line{
+    width: 550px;
+    margin-top:10pt;
+}
+#firstlabel,#fourthlabel{
+    margin-left: 30pt;   
+}
+#secondlabel{
+    margin-left:60pt;   
+}
+#thirdlabel{
+    margin-left:30pt;   
+}
+#fifthlabel{
+    margin-left: 90pt;
+}
+input[type="text"]  {
+    background-color: white;
+    font-weight: bold;
+    height: 30pt;
+   
+    }
+    input[type="date"]  {
+        background-color: white;
+        font-weight: bold;
+        height: 30pt;
+       
+        }
+#firsttext{
+    margin-left: 30pt;
+    width: 100pt;
+}
+#secondtext{
+    margin-left:30pt;
+    width: 25pt;
+}
+#thirdtext{
+    margin-left:15pt;
+    width: 190pt;
+}
+#date{
+    margin-left: 30pt;
+    width: 150pt;
+}
+#fourthtext{
+    margin-left:25pt;
+    width: 190pt;
+}
+#radioone{
+    margin-left: 30pt;
+}
+#anchor{
+    margin-left: 30pt;
+}
+#cc{
+    float: right;
+    margin-top: 10pt;
+}

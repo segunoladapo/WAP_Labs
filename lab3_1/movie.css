@@ -1,0 +1,146 @@
+.div_banner_img{
+    text-align: center;
+    width: 100%;
+    background-image: url('bannerbg.png');
+}
+h1{
+    text-align: center;
+    font-size: 24pt;
+    text-shadow: 3px 3px #999999;
+}
+.div_banner_img img{
+    display: block;
+    margin:auto;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url('background.png');
+    font-size: 8pt;
+    font-family: Tahoma, Verdana, sans-serif;
+    background-attachment: fixed;
+}
+.container_frame{
+    margin-right: auto;
+    margin-left:auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    width:800px;
+}
+.first_header{
+    width:100%;
+    background: url('rbg.png');
+
+}
+.first_header img{
+    float: left;
+    height: 83px;
+}
+.first_header span{
+    font-size: 48pt;
+    color: red;
+    font-weight: bold;
+    position: relative;
+    top: 2px;
+    left: 5px;
+}
+.clear{
+    clear: both;
+}
+
+.container_first_section{
+    width: 100%;
+    border: 4px solid gray;
+    border-radius: 20px;
+    overflow: hidden;
+
+}
+.container_second_section{
+    width: 550px;
+    float: left;
+}
+.info{
+    float: left;
+    width: 47%;
+}
+.paddingleft-2{
+    padding-left: 2%;
+}
+.paddingright-2{
+    padding-right: 2%;
+}
+.quotation{
+    font-size: 8pt;
+    background-color: #E8DC9B;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin: 12px 0 0;
+    padding: 8px;
+    font-weight: bold;
+    min-height: 25px;
+}
+.quotation_author_name{
+    font-size: 8pt;
+    margin: 0 2.5px 15px;
+    padding: 8px 0;
+    font-weight: bold;
+    min-height: 25px;
+}
+.quotation_author_name em{
+    font-weight: normal;
+}
+.quotation img ,.quotation_author_name img{
+    float: left;
+    margin-right: 5px;
+}
+.quotation_author_name em{
+    font-weight: normal;
+}
+
+.right_column250{
+    max-width: 250px;
+    float: left;
+    background-color:  #A2B964;
+}
+.full{
+    width:100%;
+}
+dl {
+    font-size: 8pt;
+    font-family: Arial, sans-serif;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    font-weight: bold;
+}
+
+dt {
+    font-size: 10pt;
+}
+
+dd {
+    margin-bottom: 10pt;
+}
+
+dd ul {
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.validator{
+    position: fixed;
+    float: right;
+    margin-top: -75px;
+    bottom:0px;
+    right:0px;
+}
+.footer{
+    background-color: #A2B964;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+.footer p{
+    margin: 0;
+}
